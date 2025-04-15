@@ -1,0 +1,93 @@
+body {
+    background-color:#031E4C;
+}
+
+#memoriamContainer {
+    font-family: 'Open Sans', sans-serif, Arial;
+    font-size: 42px; 
+    background-color: white;
+    color: #03233B; 
+    margin-top: 50px; 
+    padding: 28px; 
+    border: 1px solid lightgray; 
+    border-radius: 30px; 
+}
+
+#memName {
+    color: #03233B;
+    font-size: 51px;  
+}
+
+hr { background-color: #89B656; height: 1px; border: 0; }
+
+#imgbox {
+    float: right; 
+    border: 10px solid #EBECEF;
+    border-radius: 20px; 
+}
+
+#memPtitle {
+    text-align: left;
+    margin-top: 20px; 
+    font-size: 32px; 
+    color: white; 
+    font-family: 'Open Sans', sans-serif, Arial;
+}
+
+#memAuthors {
+    font-size: 16.5px; 
+    color: #89B656;
+    text-align: left; 
+    font-family: 'Open Sans', sans-serif, Arial;
+}
+
+#memYears {
+    font-family: 'Open Sans', sans-serif, Arial;
+    font-size: 15px; 
+    font-weight: bold; 
+    text-align: justify; 
+}
+
+#memPoem {
+    color: white;
+    margin: 0 auto;
+    text-align: left; 
+    font-size: 16px; 
+    font-family: 'Open Sans', sans-serif, Arial;
+}
+
+#memPtitle2 {
+    font-family: 'Open Sans', sans-serif, Arial;
+    text-align: left;
+    font-size: 16px; 
+}
+
+.fa-ellipsis-h {
+    color: lightgray; 
+    font-size: 20px; 
+}
+
+#break {
+    font-size: 21px; 
+    font-family: 'Open Sans', sans-serif, Arial;
+}
+
+#memPtitle3 {
+    font-family: 'Open Sans', sans-serif, Arial;
+    text-align: center;
+    font-size: 16px; 
+}
+
+#memPtitle4 {
+    font-family: 'Open Sans', sans-serif, Arial;
+    text-align: left;
+    font-size: 31px; 
+    color: white; 
+}
+
+#yearsTribute { 
+    float: right; 
+    margin-right: 60px; 
+    color: gray; 
+    font-size: 35px; 
+}
